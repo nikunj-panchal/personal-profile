@@ -455,6 +455,7 @@ a:active {
     overflow: hidden;
     position: relative;
     padding: 60px 0;
+    margin-left: 8%;
 }
 
 #award-box:before {
